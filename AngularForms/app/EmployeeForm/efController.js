@@ -8,6 +8,7 @@ angularFormsApp.controller('efController',
             "Engineering",
             "Marketing",
             "Finance",
+            "Logistics",
             "Administration"
         ];
 
