@@ -3,7 +3,7 @@ angularFormsApp.factory('efService',
     function () {
         return {
             employee: {
-                fullName: "Milton Waddams",
+                fullName: "Milton Waddams2",
                 notes: "The ideal employee.  Just don't touch his red stapler.",
                 department: "Administration",
                 perkCar: true,
